@@ -1,6 +1,6 @@
 # Initial Prompt
 
-Create a responsive web application that screens major stocks, mutual funds, and ETFs from all the major stock markets worldwide. The project should start from an empty codebase and follow a clear, scalable folder and file structure for clean organization. The app should have a modern, dynamic UI optimized for both desktop and mobile devices without alignment or usability issues.
+Create a responsive web application in the current directory that screens major stocks, mutual funds, and ETFs from all the major stock markets worldwide. The project should follow a clear, scalable folder and file structure for clean organization. Alongside the app features, save all prompts, documentation, instructions, and related files in dedicated folders within the project. The app should have a modern, dynamic UI optimized for both desktop and mobile devices without alignment or usability issues. 
 
 ## Features
 1. **Global Market Coverage**
